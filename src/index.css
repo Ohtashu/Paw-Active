@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Full-page gradient background */
+body {
+  @apply min-h-screen m-0 p-0;
+  background: linear-gradient(160deg, #1e40af 0%, #2563eb 45%, #e0f2fe 100%);
+}

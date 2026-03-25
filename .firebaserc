@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "paw-active-219dc"
+  },
+  "targets": {
+    "paw-active-219dc": {
+      "hosting": {
+        "pawactive": [
+          "pawactive"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
